@@ -1,9 +1,26 @@
-# viu.tv
+#Domain for Viu App
+#Contribute by MSSVPN t.me/mssvpn_hq
+doubleverify.com
+innovid.com
+bitmovin.com
+amplitude.com
+vuclip.com
+viuapi.io
+viuing.io
+clevertap-prod.com
+branch.io
+segment.io
+quantserve.com
+criteo.net
+greentropolo.com
+crashlytics.com
+appsflyersdk.com
+appsflyer.com
+
 viu.tv
 full:api.viu.now.com
 regexp:^ewcdn[0-9]{2}\.nowe\.com$
 
-# viu.com
 viu.com
 full:dfp6rglgjqszk.cloudfront.net
 full:d1k2us671qcoau.cloudfront.net
